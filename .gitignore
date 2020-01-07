@@ -1,6 +1,8 @@
 .DS_Store
 *.swp
 
+homework/Day_029-31*/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
