@@ -2,6 +2,7 @@
 *.swp
 
 homework/Day_029-31*/
+*.ckpt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
